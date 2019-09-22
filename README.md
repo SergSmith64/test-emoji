@@ -10,7 +10,8 @@ Russia :ru:
 * Upwork: [https://www.upwork.com/fl/sergeikuznetcov2/](https://www.upwork.com/fl/sergeikuznetcov2/)
 
 ## 3. Contact Info
-Email: | -
+Email: | [SergSmith2008@yandex.ru](mailto:SergSmith2008@yandex.ru)
+------------ | -------------------------------
 Phone: | +7-917-215-7022
 GitHub: | -
 Linkedin: | -
