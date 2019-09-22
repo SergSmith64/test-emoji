@@ -19,7 +19,7 @@ Linkedin: | [https://www.linkedin.com/in/sergei-kuznetcov-952971121/](https://ww
 Upwork: | [https://www.upwork.com/fl/sergeikuznetcov2/](https://www.upwork.com/fl/sergeikuznetcov2/)
 
 ## 6. Experience
-1. **HTML & CSS experience**:
+1. **HTML & CSS experience**:<br>
 HTML, CSS, Bootstrap
   * [SinGulf Global - Singapore] :singapore: (http://singulf.com)
   * [Dating - Romania] :romania: (http://datingromania.eu)
